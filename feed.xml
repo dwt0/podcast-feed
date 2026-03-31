@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Law Review Podcasts</title>
+    <description>AI-narrated law review articles for on-the-go listening.</description>
+    <link>https://dwt0.github.io/podcast-feed/feed.xml</link>
+    <language>en-us</language>
+    <itunes:author>Daniel Townsend</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Education"/>
+  </channel>
+</rss>
