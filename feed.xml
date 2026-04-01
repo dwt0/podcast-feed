@@ -9,6 +9,14 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
     <item>
+      <title>04.07.26 Faculty Workshop - Cole</title>
+      <description>04.07.26 Faculty Workshop - Cole</description>
+      <pubDate>Wed, 01 Apr 2026 15:54:10 GMT</pubDate>
+      <enclosure url="https://dwt0.github.io/podcast-feed/episodes/040726-faculty-workshop-cole.mp3" length="90787858" type="audio/mpeg"/>
+      <itunes:duration>4:12:11</itunes:duration>
+      <guid isPermaLink="true">https://dwt0.github.io/podcast-feed/episodes/040726-faculty-workshop-cole.mp3</guid>
+    </item>
+    <item>
       <title>Abraham &amp; Sharkey - Untangling AI Liability</title>
       <description>Kenneth S. Abraham &amp; Catherine M. Sharkey — Untangling AI Liability</description>
       <pubDate>Wed, 01 Apr 2026 01:13:34 GMT</pubDate>
