@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Law Review Podcasts</title>
     <description>AI-narrated law review articles for on-the-go listening.</description>
@@ -11,6 +11,20 @@
     <item>
       <title>04.07.26 Faculty Workshop - Cole</title>
       <description>04.07.26 Faculty Workshop - Cole</description>
+      <content:encoded><![CDATA[<p>04.07.26 Faculty Workshop - Cole</p>
+<p>David Cole defends the First Amendment's core neutrality principle against progressive critics who argue that formal neutrality in an unequal world reinforces inequality. Drawing on his career trajectory from the Center for Constitutional Rights to the ACLU, Cole contends that empowering the government to restrict speech in the name of equality poses greater dangers than the speech itself.</p>
+<p><b>Chapters:</b><br/>
+0:08 Introduction<br/>
+21:08 II. The Affirmative Case for Neutrality<br/>
+1:01:00 III. Speech and Civil Rights<br/>
+2:33:07 Conclusion (Day One)<br/>
+2:36:34 Introduction<br/>
+2:40:37 II. Was Free Speech Tamed?<br/>
+2:50:39 III. Corporate Speech<br/>
+3:01:23 IV. Commercial Speech and the New Lochner<br/>
+3:23:49 V. Campaign Finance<br/>
+3:44:33 VI. Donald Trump, Free Speech, and Civil Society<br/>
+3:58:54 Conclusion — Can Free Speech Be Progressive?</p>]]></content:encoded>
       <pubDate>Wed, 01 Apr 2026 15:54:10 GMT</pubDate>
       <enclosure url="https://dwt0.github.io/podcast-feed/episodes/040726-faculty-workshop-cole.mp3" length="90787858" type="audio/mpeg"/>
       <itunes:duration>4:12:11</itunes:duration>
@@ -19,6 +33,15 @@
     <item>
       <title>Abraham &amp; Sharkey - Untangling AI Liability</title>
       <description>Kenneth S. Abraham &amp; Catherine M. Sharkey — Untangling AI Liability</description>
+      <content:encoded><![CDATA[<p>Kenneth S. Abraham & Catherine M. Sharkey — Untangling AI Liability</p>
+<p>Abraham and Sharkey provide a comprehensive analytical framework for applying tort law to harms caused by AI technologies. They argue that the "black-box" problem is less insurmountable than commonly assumed, showing that existing tort principles can address AI liability without requiring insight into AI's internal decision-making. The more significant challenge, they contend, is the overlooked jurisprudential question of whether AI liability rules should be uniform or diverse, arguing that a diverse, context-specific approach will prove optimal.</p>
+<p><b>Chapters:</b><br/>
+9:02 Introduction<br/>
+24:01 I. AI as a Subject of Liability<br/>
+35:45 II. Low-Hanging Fruit: AI and Conventional Liability Issues<br/>
+1:17:29 III. The More Difficult Challenges: Diversity and Opacity<br/>
+2:05:32 IV. Insurance<br/>
+2:17:30 Conclusion</p>]]></content:encoded>
       <pubDate>Wed, 01 Apr 2026 01:13:34 GMT</pubDate>
       <enclosure url="https://dwt0.github.io/podcast-feed/episodes/abraham-sharkey-untangling-ai-liability.mp3" length="67418925" type="audio/mpeg"/>
       <itunes:duration>2:20:27</itunes:duration>
@@ -27,6 +50,15 @@
     <item>
       <title>Arbel et al - AI A Corps</title>
       <description>Yonathan Arbel, Simon Goldstein &amp; Peter N. Salib — How to Count AIs: Individuation and Liability for AI Agents</description>
+      <content:encoded><![CDATA[<p>Yonathan Arbel, Simon Goldstein & Peter N. Salib — How to Count AIs: Individuation and Liability for AI Agents</p>
+<p>Arbel, Goldstein, and Salib address the problem of identifying and individuating AI agents for purposes of legal accountability. They propose the "Algorithmic Corporation" or "A-corp," a legal-fictional entity owned by humans but run by AIs, which solves both "thin" identity (connecting AI actions to human principals) and "thick" identity (distinguishing AI agents from one another as discrete, persistent entities).</p>
+<p><b>Chapters:</b><br/>
+2:29 Introduction<br/>
+17:04 I. The Problem of AI Identity<br/>
+57:57 II. The A-Corp: A Legal Solution to AI Identity<br/>
+1:44:28 III. Implementation Pathways<br/>
+1:57:12 IV. Objections and Responses<br/>
+2:02:49 Conclusion</p>]]></content:encoded>
       <pubDate>Wed, 01 Apr 2026 01:02:52 GMT</pubDate>
       <enclosure url="https://dwt0.github.io/podcast-feed/episodes/arbel-et-al-ai-a-corps.mp3" length="60509421" type="audio/mpeg"/>
       <itunes:duration>2:06:03</itunes:duration>
@@ -35,6 +67,14 @@
     <item>
       <title>Cross - Tort Law and the American Economy</title>
       <description>Frank B. Cross — Tort Law and the American Economy (Minnesota Law Review, 2011)</description>
+      <content:encoded><![CDATA[<p>Frank B. Cross — Tort Law and the American Economy (Minnesota Law Review, 2011)</p>
+<p>Cross tests the widely asserted claim that tort law undermines American economic growth by examining state-level economic data against tort-law indices created by two pro-defendant organizations. Despite the common narrative that pro-plaintiff tort regimes discourage business investment and innovation, he finds no evidence that states with more defendant-friendly tort law perform better economically, suggesting that the economic case for tort reform has been significantly overstated.</p>
+<p><b>Chapters:</b><br/>
+2:40 I. The Controversy Over Tort Law<br/>
+26:17 II. Research on Tort Law and the Economy<br/>
+37:36 III. The Measures of Tort Law Used in This Study<br/>
+51:18 IV. An Analysis of Economic Effects of State Tort Law<br/>
+1:15:18 V. Pathways for Tort Law to Affect the General Economy</p>]]></content:encoded>
       <pubDate>Tue, 31 Mar 2026 22:44:34 GMT</pubDate>
       <enclosure url="https://dwt0.github.io/podcast-feed/episodes/cross-tort-law-and-the-american-economy.mp3" length="42339885" type="audio/mpeg"/>
       <itunes:duration>1:28:12</itunes:duration>

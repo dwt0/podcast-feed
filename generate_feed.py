@@ -2,8 +2,10 @@
 """Generate a Podcast RSS 2.0 feed from episode sidecar JSON files."""
 
 import glob
+import html
 import json
 import os
+import re
 from xml.dom import minidom
 import xml.etree.ElementTree as ET
 
@@ -40,9 +42,12 @@ def generate_feed(repo_dir):
     # Build RSS XML
     ITUNES_NS = "http://www.itunes.com/dtds/podcast-1.0.dtd"
 
+    CONTENT_NS = "http://purl.org/rss/1.0/modules/content/"
+
     rss = ET.Element("rss", {
         "version": "2.0",
         "xmlns:itunes": ITUNES_NS,
+        "xmlns:content": CONTENT_NS,
     })
     channel = ET.SubElement(rss, "channel")
 
@@ -62,6 +67,14 @@ def generate_feed(repo_dir):
         item = ET.SubElement(channel, "item")
         ET.SubElement(item, "title").text = ep["title"]
         ET.SubElement(item, "description").text = ep.get("description", ep["title"])
+
+        # Show notes as HTML in content:encoded
+        show_notes = ep.get("show_notes")
+        if show_notes:
+            content_el = ET.SubElement(item, "content:encoded")
+            # Use a placeholder that we'll replace with CDATA after serialization
+            content_el.text = f"__CDATA__{show_notes}__ENDCDATA__"
+
         ET.SubElement(item, "pubDate").text = ep["pub_date"]
 
         enclosure = ET.SubElement(item, "enclosure")
@@ -84,10 +97,18 @@ def generate_feed(repo_dir):
     lines = pretty_xml.split("\n")
     if lines[0].startswith("<?xml"):
         lines = lines[1:]
+    # Replace CDATA placeholders with actual CDATA sections
+    content = "\n".join(lines)
+    content = re.sub(
+        r'__CDATA__(.*?)__ENDCDATA__',
+        lambda m: f'<![CDATA[{html.unescape(m.group(1))}]]>',
+        content, flags=re.DOTALL
+    )
+
     feed_path = os.path.join(repo_dir, "feed.xml")
     with open(feed_path, "w", encoding="utf-8") as f:
         f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
-        f.write("\n".join(lines))
+        f.write(content)
 
     print(f"Generated {feed_path} with {len(episodes)} episode(s)")
     return feed_path
