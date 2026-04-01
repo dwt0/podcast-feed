@@ -9,6 +9,14 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
     <item>
+      <title>Abraham &amp; Sharkey - Untangling AI Liability</title>
+      <description>Kenneth S. Abraham &amp; Catherine M. Sharkey — Untangling AI Liability</description>
+      <pubDate>Wed, 01 Apr 2026 01:13:34 GMT</pubDate>
+      <enclosure url="https://dwt0.github.io/podcast-feed/episodes/abraham-sharkey-untangling-ai-liability.mp3" length="67418925" type="audio/mpeg"/>
+      <itunes:duration>2:20:27</itunes:duration>
+      <guid isPermaLink="true">https://dwt0.github.io/podcast-feed/episodes/abraham-sharkey-untangling-ai-liability.mp3</guid>
+    </item>
+    <item>
       <title>Arbel et al - AI A Corps</title>
       <description>Yonathan Arbel, Simon Goldstein &amp; Peter N. Salib — How to Count AIs: Individuation and Liability for AI Agents</description>
       <pubDate>Wed, 01 Apr 2026 01:02:52 GMT</pubDate>
