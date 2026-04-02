@@ -80,5 +80,20 @@
       <itunes:duration>1:28:12</itunes:duration>
       <guid isPermaLink="true">https://dwt0.github.io/podcast-feed/episodes/cross-tort-law-and-the-american-economy.mp3</guid>
     </item>
+    <item>
+      <title>Abraham_Self-Proving Causation</title>
+      <description>Kenneth S. Abraham — Self-Proving Causation (Virginia Law Review, 2013)</description>
+      <content:encoded><![CDATA[<p>Kenneth S. Abraham — Self-Proving Causation (Virginia Law Review, 2013)</p>
+<p>Abraham explores a feature of causation doctrine he calls "self-proving causation" — situations where the very nature of a defendant's negligence provides circumstantial evidence that the negligence caused the plaintiff's harm. He analyzes the landmark Second Circuit decision in Zuchowicz v. United States, arguing that far from being a straightforward application of the doctrine, Zuchowicz extended it in ways that remain underappreciated, and examines what the case may mean for the future of causation law.</p>
+<p><b>Chapters:</b><br/>
+6:25 I. The Nature of Cause-In-Fact and the Distinctiveness of Self-Proving Causation<br/>
+37:26 II. Zuchowicz<br/>
+56:05 III. A New Law of Self-Proving Causation?<br/>
+1:36:56 Conclusion</p>]]></content:encoded>
+      <pubDate>Thu, 02 Apr 2026 19:39:30 GMT</pubDate>
+      <enclosure url="https://dwt0.github.io/podcast-feed/episodes/abraham-self-proving-causation.mp3" length="47222637" type="audio/mpeg"/>
+      <itunes:duration>1:38:22</itunes:duration>
+      <guid isPermaLink="true">https://dwt0.github.io/podcast-feed/episodes/abraham-self-proving-causation.mp3</guid>
+    </item>
   </channel>
 </rss>
