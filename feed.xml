@@ -65,19 +65,19 @@
     </item>
     <item>
       <title>Arbel et al - AI A Corps</title>
-      <description>Arbel, Brennan, Sarel &amp; Strahilevitz — The A-Corporation</description>
-      <content:encoded><![CDATA[<p>Arbel, Brennan, Sarel & Strahilevitz — The A-Corporation</p>
-<p>Arbel and co-authors propose the 'A-corporation,' a new legal entity designed to hold and manage resources on behalf of AI agents. Drawing on corporate law, agency theory, and AI safety research, the Article argues that existing legal frameworks are ill-suited to govern increasingly autonomous AI systems. A-corps would provide a governance structure enabling AI agents to operate within legal bounds while preserving incentives for alignment, with internal checks modeled on corporate fiduciary duties and resource constraints that naturally limit misaligned behavior.</p>
+      <description>Arbel, Goldstein &amp; Salib — How to Count AIs: Individuation and Liability for AI Agents</description>
+      <content:encoded><![CDATA[<p>Arbel, Goldstein & Salib — How to Count AIs: Individuation and Liability for AI Agents</p>
+<p>This Article diagnoses the legal problem of identifying AI agents — both 'thinly' (tying AI actions to human principals for accountability) and 'thickly' (individuating AI agents as discrete entities with coherent goals that can be directly governed by law). The authors propose the 'Algorithmic Corporation' or A-corp, a legal-fictional entity owned by humans but run by AIs, which solves thin identity through ownership tracing and thick identity through emergent self-organization driven by resource constraints. The Article sketches implementation pathways and argues that A-corps would function as essential legal infrastructure for governing AI behavior in an economy populated by billions of autonomous agents.</p>
 <p><b>Chapters:</b><br/>
-2:29 Introduction<br/>
-17:08 I. The Problem of AI Identity<br/>
-58:10 II. The A-Corp: A Legal Solution to AI Identity<br/>
-1:44:54 III. Implementation Pathways<br/>
-1:57:38 IV. Objections and Responses<br/>
-2:03:16 Conclusion</p>]]></content:encoded>
-      <pubDate>Thu, 09 Apr 2026 13:40:23 GMT</pubDate>
-      <enclosure url="https://dwt0.github.io/podcast-feed/episodes/arbel-et-al-ai-a-corps.mp3" length="60532461" type="audio/mpeg"/>
-      <itunes:duration>2:06:06</itunes:duration>
+2:30 Introduction<br/>
+17:07 I. The Problem of AI Identity<br/>
+58:12 II. The A-Corp: A Legal Solution to AI Identity<br/>
+1:44:55 III. Implementation Pathways<br/>
+1:57:43 IV. Objections and Responses<br/>
+2:03:26 Conclusion</p>]]></content:encoded>
+      <pubDate>Thu, 09 Apr 2026 19:09:49 GMT</pubDate>
+      <enclosure url="https://dwt0.github.io/podcast-feed/episodes/arbel-et-al-ai-a-corps.mp3" length="60798765" type="audio/mpeg"/>
+      <itunes:duration>2:06:39</itunes:duration>
       <guid isPermaLink="true">https://dwt0.github.io/podcast-feed/episodes/arbel-et-al-ai-a-corps.mp3</guid>
     </item>
     <item>
