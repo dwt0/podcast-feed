@@ -48,23 +48,6 @@
       <guid isPermaLink="true">https://dwt0.github.io/podcast-feed/episodes/abraham-sharkey-untangling-ai-liability.mp3</guid>
     </item>
     <item>
-      <title>Arbel et al - AI A Corps</title>
-      <description>Yonathan Arbel, Simon Goldstein &amp; Peter N. Salib — How to Count AIs: Individuation and Liability for AI Agents</description>
-      <content:encoded><![CDATA[<p>Yonathan Arbel, Simon Goldstein & Peter N. Salib — How to Count AIs: Individuation and Liability for AI Agents</p>
-<p>Arbel, Goldstein, and Salib address the problem of identifying and individuating AI agents for purposes of legal accountability. They propose the "Algorithmic Corporation" or "A-corp," a legal-fictional entity owned by humans but run by AIs, which solves both "thin" identity (connecting AI actions to human principals) and "thick" identity (distinguishing AI agents from one another as discrete, persistent entities).</p>
-<p><b>Chapters:</b><br/>
-2:29 Introduction<br/>
-17:04 I. The Problem of AI Identity<br/>
-57:57 II. The A-Corp: A Legal Solution to AI Identity<br/>
-1:44:28 III. Implementation Pathways<br/>
-1:57:12 IV. Objections and Responses<br/>
-2:02:49 Conclusion</p>]]></content:encoded>
-      <pubDate>Wed, 01 Apr 2026 01:02:52 GMT</pubDate>
-      <enclosure url="https://dwt0.github.io/podcast-feed/episodes/arbel-et-al-ai-a-corps.mp3" length="60509421" type="audio/mpeg"/>
-      <itunes:duration>2:06:03</itunes:duration>
-      <guid isPermaLink="true">https://dwt0.github.io/podcast-feed/episodes/arbel-et-al-ai-a-corps.mp3</guid>
-    </item>
-    <item>
       <title>Cross - Tort Law and the American Economy</title>
       <description>Frank B. Cross — Tort Law and the American Economy (Minnesota Law Review, 2011)</description>
       <content:encoded><![CDATA[<p>Frank B. Cross — Tort Law and the American Economy (Minnesota Law Review, 2011)</p>
@@ -79,6 +62,23 @@
       <enclosure url="https://dwt0.github.io/podcast-feed/episodes/cross-tort-law-and-the-american-economy.mp3" length="42339885" type="audio/mpeg"/>
       <itunes:duration>1:28:12</itunes:duration>
       <guid isPermaLink="true">https://dwt0.github.io/podcast-feed/episodes/cross-tort-law-and-the-american-economy.mp3</guid>
+    </item>
+    <item>
+      <title>Arbel et al - AI A Corps</title>
+      <description>Arbel, Brennan, Sarel &amp; Strahilevitz — The A-Corporation</description>
+      <content:encoded><![CDATA[<p>Arbel, Brennan, Sarel & Strahilevitz — The A-Corporation</p>
+<p>Arbel and co-authors propose the 'A-corporation,' a new legal entity designed to hold and manage resources on behalf of AI agents. Drawing on corporate law, agency theory, and AI safety research, the Article argues that existing legal frameworks are ill-suited to govern increasingly autonomous AI systems. A-corps would provide a governance structure enabling AI agents to operate within legal bounds while preserving incentives for alignment, with internal checks modeled on corporate fiduciary duties and resource constraints that naturally limit misaligned behavior.</p>
+<p><b>Chapters:</b><br/>
+2:29 Introduction<br/>
+17:08 I. The Problem of AI Identity<br/>
+58:10 II. The A-Corp: A Legal Solution to AI Identity<br/>
+1:44:54 III. Implementation Pathways<br/>
+1:57:38 IV. Objections and Responses<br/>
+2:03:16 Conclusion</p>]]></content:encoded>
+      <pubDate>Thu, 09 Apr 2026 13:40:23 GMT</pubDate>
+      <enclosure url="https://dwt0.github.io/podcast-feed/episodes/arbel-et-al-ai-a-corps.mp3" length="60532461" type="audio/mpeg"/>
+      <itunes:duration>2:06:06</itunes:duration>
+      <guid isPermaLink="true">https://dwt0.github.io/podcast-feed/episodes/arbel-et-al-ai-a-corps.mp3</guid>
     </item>
     <item>
       <title>Schwarcz &amp; Wolff - AI and Insurance</title>
