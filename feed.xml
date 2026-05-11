@@ -148,5 +148,15 @@
       <itunes:duration>1:38:25</itunes:duration>
       <guid isPermaLink="true">https://dwt0.github.io/podcast-feed/episodes/abraham-self-proving-causation.mp3</guid>
     </item>
+    <item>
+      <title>facct2025-final2475-acmpaginated</title>
+      <description>Shira Gur-Arieh and Christina Lee — Consistently Arbitrary or Arbitrarily Consistent: Navigating the Tensions Between Homogenization and Multiplicity in Algorithmic Decision-Making (FAccT 2025)</description>
+      <content:encoded><![CDATA[<p>Shira Gur-Arieh and Christina Lee — Consistently Arbitrary or Arbitrarily Consistent: Navigating the Tensions Between Homogenization and Multiplicity in Algorithmic Decision-Making (FAccT 2025)</p>
+<p>Gur-Arieh and Lee argue that two well-known critiques of algorithmic decision-making — outcome homogenization from consistency at scale, and arbitrariness from predictive multiplicity — are not separate problems but two faces of the same trade-off, with most fixes to one quietly making the other worse. The paper proposes a framework that defaults to diversity across an ecosystem of decision-makers but determinacy within any single one, and offers four factors (normative-vs-factual, uncertainty, single- vs. multi-shot, public vs. private) for deciding when ecosystem-level uniformity is actually warranted.</p>]]></content:encoded>
+      <pubDate>Mon, 11 May 2026 17:24:17 GMT</pubDate>
+      <enclosure url="https://dwt0.github.io/podcast-feed/episodes/facct2025-final2475-acmpaginated.mp3" length="36400941" type="audio/mpeg"/>
+      <itunes:duration>1:15:50</itunes:duration>
+      <guid isPermaLink="true">https://dwt0.github.io/podcast-feed/episodes/facct2025-final2475-acmpaginated.mp3</guid>
+    </item>
   </channel>
 </rss>

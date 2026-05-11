@@ -1,0 +1,9 @@
+{
+  "title": "facct2025-final2475-acmpaginated",
+  "filename": "facct2025-final2475-acmpaginated.mp3",
+  "pub_date": "Mon, 11 May 2026 17:24:17 GMT",
+  "duration_seconds": 4550,
+  "file_size_bytes": 36400941,
+  "description": "Shira Gur-Arieh and Christina Lee \u2014 Consistently Arbitrary or Arbitrarily Consistent: Navigating the Tensions Between Homogenization and Multiplicity in Algorithmic Decision-Making (FAccT 2025)",
+  "show_notes": "<p>Shira Gur-Arieh and Christina Lee \u2014 Consistently Arbitrary or Arbitrarily Consistent: Navigating the Tensions Between Homogenization and Multiplicity in Algorithmic Decision-Making (FAccT 2025)</p>\n<p>Gur-Arieh and Lee argue that two well-known critiques of algorithmic decision-making \u2014 outcome homogenization from consistency at scale, and arbitrariness from predictive multiplicity \u2014 are not separate problems but two faces of the same trade-off, with most fixes to one quietly making the other worse. The paper proposes a framework that defaults to diversity across an ecosystem of decision-makers but determinacy within any single one, and offers four factors (normative-vs-factual, uncertainty, single- vs. multi-shot, public vs. private) for deciding when ecosystem-level uniformity is actually warranted.</p>"
+}
