@@ -100,6 +100,23 @@
       <guid isPermaLink="true">https://dwt0.github.io/podcast-feed/episodes/volokh-lemley-henderson-1a-and-ai-output.mp3</guid>
     </item>
     <item>
+      <title>07_Kolt_GoverningAIAgents</title>
+      <description>Noam Kolt — Governing AI Agents (101 Notre Dame L. Rev., forthcoming)</description>
+      <content:encoded><![CDATA[<p>Noam Kolt — Governing AI Agents (101 Notre Dame L. Rev., forthcoming)</p>
+<p>Noam Kolt argues that two long-established frameworks—the economic theory of principal-agent problems and the common law doctrine of agency relationships—offer powerful tools for governing AI agents, systems that autonomously plan and execute complex tasks on behalf of users. The Article uses agency law and theory to characterize the core problems AI agents raise (information asymmetry, discretionary authority, and loyalty), shows why conventional solutions like incentive design, monitoring, and enforcement may falter for agents that make uninterpretable decisions at unprecedented speed and scale, and contends that effective governance will require new technical and legal infrastructure built around principles of inclusivity, visibility, and liability.</p>
+<p><b>Chapters:</b><br/>
+1:37 Introduction<br/>
+12:42 I. AI Agents<br/>
+21:34 II. Evergreen Agency Problems<br/>
+40:49 III. The Limits of Agency Law and Theory<br/>
+52:48 IV. Implications for AI Design and Regulation<br/>
+1:07:54 Conclusion</p>]]></content:encoded>
+      <pubDate>Thu, 21 May 2026 14:00:31 GMT</pubDate>
+      <enclosure url="https://dwt0.github.io/podcast-feed/episodes/07-kolt-governingaiagents.mp3" length="33248109" type="audio/mpeg"/>
+      <itunes:duration>1:09:15</itunes:duration>
+      <guid isPermaLink="true">https://dwt0.github.io/podcast-feed/episodes/07-kolt-governingaiagents.mp3</guid>
+    </item>
+    <item>
       <title>vol127_shaw</title>
       <description>Geoffrey C. Shaw — H. L. A. Hart's Lost Essay: Discretion and the Legal Process School (127 Harv. L. Rev. 666, 2013)</description>
       <content:encoded><![CDATA[<p>Geoffrey C. Shaw — H. L. A. Hart's Lost Essay: Discretion and the Legal Process School (127 Harv. L. Rev. 666, 2013)</p>
