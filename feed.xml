@@ -206,5 +206,25 @@
       <itunes:duration>1:15:50</itunes:duration>
       <guid isPermaLink="true">https://dwt0.github.io/podcast-feed/episodes/facct2025-final2475-acmpaginated.mp3</guid>
     </item>
+    <item>
+      <title>Cohen_Administrative_Legitimacy</title>
+      <description>Julie E. Cohen — Administrative Legitimacy in the Age of Automation (workshop draft)</description>
+      <content:encoded><![CDATA[<p>Julie E. Cohen — Administrative Legitimacy in the Age of Automation (workshop draft)</p>
+<p>In this rough workshop draft, Julie Cohen argues that rule-of-law objections to automated administrative decision-making rest on a classic paradigm—built around legislatures and courts—that bureaucracies never fit in the first place. Rather than treating administrative automation as presumptively illegitimate, she contends that bureaucracies have distinctive strengths (operating at and across scales, synthesizing diverse evidence, iterating over time, and generating recursive internal knowledge) that a networked information economy requires, and she sketches a "fit for purpose" rule-of-law framework—grounded in tempering arbitrary power and an equality principle, and structured by transparency, care and respect, and oversight—for judging when administrative automation is legitimate.</p>
+<p><b>Chapters:</b><br/>
+4:04 I. The Algocrat in the Infrastructure<br/>
+8:53 II. The Bureaucrat in the Attic
+Critics of incipient algocracy in administrative gov<br/>
+14:36 III. The Underappreciated Virtues of Bureaucracy<br/>
+27:38 IV. Toward a Rule-of-Law Framework for Administrative Governance
+So far, I have esta<br/>
+40:31 V. Automation and Administrative Legitimacy, Reconsidered
+Armed with a coherent acc<br/>
+43:05 Conclusion</p>]]></content:encoded>
+      <pubDate>Mon, 08 Jun 2026 17:59:55 GMT</pubDate>
+      <enclosure url="https://dwt0.github.io/podcast-feed/episodes/cohen-administrative-legitimacy.mp3" length="20692653" type="audio/mpeg"/>
+      <itunes:duration>0:43:06</itunes:duration>
+      <guid isPermaLink="true">https://dwt0.github.io/podcast-feed/episodes/cohen-administrative-legitimacy.mp3</guid>
+    </item>
   </channel>
 </rss>
