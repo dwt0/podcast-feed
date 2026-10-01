@@ -356,6 +356,26 @@
       <guid isPermaLink="true">https://dwt0.github.io/podcast-feed/episodes/abraham-self-proving-causation.mp3</guid>
     </item>
     <item>
+      <title>Chan et al. — Visibility into AI Agents (2024)</title>
+      <description>Alan Chan et al., Visibility into AI Agents (FAccT 2024)</description>
+      <content:encoded><![CDATA[<p>Alan Chan et al., Visibility into AI Agents (FAccT 2024)</p>
+<p>Chan and eleven co-authors argue that governing AI agents requires visibility: information about where, why, how, and by whom agents are used. They assess three measures — agent identifiers, real-time monitoring, and activity logs — and lay out implementations varying in intrusiveness and informativeness, including how to extend each to decentralised deployments through compute providers and tool providers. They then weigh their own proposals against privacy and concentration of power, concluding that visibility is necessary but not sufficient. A twelve-minute detailed summary followed by a three-minute critical Oggy Assessment.</p>
+<p><b>Chapters:</b><br/>
+0:00 Agents and the Delegation Problem<br/>
+1:12 The Agent-Specific Risks<br/>
+3:11 The Case for Visibility<br/>
+4:51 Agent Identifiers and Agent Cards<br/>
+6:32 Real-Time Monitoring<br/>
+8:17 Activity Logs<br/>
+9:34 Decentralised Deployments<br/>
+11:00 Privacy, Power, and the Limits of Visibility<br/>
+12:19 The Oggy Assessment</p>]]></content:encoded>
+      <pubDate>Thu, 01 Oct 2026 11:57:28 GMT</pubDate>
+      <enclosure url="https://dwt0.github.io/podcast-feed/episodes/chan-et-al-visibility-into-ai-agents-2024.mp3" length="7424493" type="audio/mpeg"/>
+      <itunes:duration>0:15:27</itunes:duration>
+      <guid isPermaLink="true">https://dwt0.github.io/podcast-feed/episodes/chan-et-al-visibility-into-ai-agents-2024.mp3</guid>
+    </item>
+    <item>
       <title>Reason and Fiat in Case Law</title>
       <description>Lon L. Fuller — Reason and Fiat in Case Law (59 Harv. L. Rev. 376, 1946)</description>
       <content:encoded><![CDATA[<p>Lon L. Fuller — Reason and Fiat in Case Law (59 Harv. L. Rev. 376, 1946)</p>

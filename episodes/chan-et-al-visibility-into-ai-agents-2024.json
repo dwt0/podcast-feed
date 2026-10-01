@@ -1,0 +1,9 @@
+{
+  "title": "Chan et al. \u2014 Visibility into AI Agents (2024)",
+  "filename": "chan-et-al-visibility-into-ai-agents-2024.mp3",
+  "pub_date": "Thu, 01 Oct 2026 11:57:28 GMT",
+  "duration_seconds": 927,
+  "file_size_bytes": 7424493,
+  "description": "Alan Chan et al., Visibility into AI Agents (FAccT 2024)",
+  "show_notes": "<p>Alan Chan et al., Visibility into AI Agents (FAccT 2024)</p>\n<p>Chan and eleven co-authors argue that governing AI agents requires visibility: information about where, why, how, and by whom agents are used. They assess three measures \u2014 agent identifiers, real-time monitoring, and activity logs \u2014 and lay out implementations varying in intrusiveness and informativeness, including how to extend each to decentralised deployments through compute providers and tool providers. They then weigh their own proposals against privacy and concentration of power, concluding that visibility is necessary but not sufficient. A twelve-minute detailed summary followed by a three-minute critical Oggy Assessment.</p>\n<p><b>Chapters:</b><br/>\n0:00 Agents and the Delegation Problem<br/>\n1:12 The Agent-Specific Risks<br/>\n3:11 The Case for Visibility<br/>\n4:51 Agent Identifiers and Agent Cards<br/>\n6:32 Real-Time Monitoring<br/>\n8:17 Activity Logs<br/>\n9:34 Decentralised Deployments<br/>\n11:00 Privacy, Power, and the Limits of Visibility<br/>\n12:19 The Oggy Assessment</p>"
+}
