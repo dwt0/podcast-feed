@@ -1,0 +1,9 @@
+{
+  "title": "Kaptein, Khan & Podstavnychy \u2014 Runtime Governance for AI Agents (2026)",
+  "filename": "kaptein-khan-podstavnychy-runtime-governance-for-ai-agents-2026.mp3",
+  "pub_date": "Fri, 02 Oct 2026 10:24:55 GMT",
+  "duration_seconds": 968,
+  "file_size_bytes": 7748205,
+  "description": "Kaptein, Khan & Podstavnychy \u2014 Runtime Governance for AI Agents: Policies on Paths (2026)",
+  "show_notes": "<p>Kaptein, Khan & Podstavnychy \u2014 Runtime Governance for AI Agents: Policies on Paths (2026)</p>\n<p>Kaptein, Khan and Podstavnychy argue that the execution path is the central object of AI agent governance, and formalise compliance policies as deterministic functions of agent identity, the path so far, the proposed next action and organisational state. They treat prompting and static access control as special cases, give eight concrete policies inspired by the EU AI Act, and sketch a runtime Policy Engine. The Oggy Assessment questions the probability layer, the paper's enforced-versus-voluntary distinction, and how far it can support a real-time regulatory layer for AI.</p>\n<p><b>Chapters:</b><br/>\n0:00 The Governance Gap<br/>\n1:46 Why Agents Are Different<br/>\n3:04 Why Current Methods Fall Short<br/>\n4:36 The Formal Framework<br/>\n7:23 Concrete Policies<br/>\n8:50 Building It<br/>\n10:49 The EU AI Act<br/>\n11:45 Open Problems<br/>\n12:59 The Oggy Assessment</p>"
+}
