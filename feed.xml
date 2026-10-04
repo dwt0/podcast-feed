@@ -396,6 +396,26 @@
       <guid isPermaLink="true">https://dwt0.github.io/podcast-feed/episodes/chan-et-al-visibility-into-ai-agents-2024.mp3</guid>
     </item>
     <item>
+      <title>Sastry et al. — Computing Power and the Governance of AI (2024)</title>
+      <description>Sastry et al. — Computing Power and the Governance of Artificial Intelligence (2024)</description>
+      <content:encoded><![CDATA[<p>Sastry et al. — Computing Power and the Governance of Artificial Intelligence (2024)</p>
+<p>Sastry, Heim, Belfield and co-authors argue that computing power is an unusually effective point of intervention for AI governance, because compute is detectable, excludable, quantifiable and produced through an extremely concentrated supply chain. They set out how compute could enhance three governance capacities — visibility, allocation and enforcement — while cataloguing its limits and the risks of naive approaches, and proposing guardrails. The Oggy Assessment presses on compute as a proxy for risk and on what compute governance can and cannot do for real-time oversight of deployed AI.</p>
+<p><b>Chapters:</b><br/>
+0:00 The Thesis<br/>
+1:23 Compute, the AI Lifecycle, and Governance Today<br/>
+3:21 Why Compute Is Attractive<br/>
+5:27 Development Versus Deployment<br/>
+6:33 Visibility<br/>
+8:00 Allocation<br/>
+9:20 Enforcement<br/>
+10:57 Risks and Guardrails<br/>
+12:48 The Oggy Assessment</p>]]></content:encoded>
+      <pubDate>Sun, 04 Oct 2026 09:33:23 GMT</pubDate>
+      <enclosure url="https://dwt0.github.io/podcast-feed/episodes/sastry-et-al-computing-power-and-the-governance-of-ai-2024.mp3" length="7719405" type="audio/mpeg"/>
+      <itunes:duration>0:16:04</itunes:duration>
+      <guid isPermaLink="true">https://dwt0.github.io/podcast-feed/episodes/sastry-et-al-computing-power-and-the-governance-of-ai-2024.mp3</guid>
+    </item>
+    <item>
       <title>Kolt — Governing AI Agents (2025)</title>
       <description>Noam Kolt — Governing AI Agents (101 Notre Dame Law Review, forthcoming 2025)</description>
       <content:encoded><![CDATA[<p>Noam Kolt — Governing AI Agents (101 Notre Dame Law Review, forthcoming 2025)</p>
