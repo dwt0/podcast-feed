@@ -1,0 +1,9 @@
+{
+  "title": "Shevlane \u2014 Structured Access for Safe AI Deployment (2022)",
+  "filename": "shevlane-structured-access-for-safe-ai-deployment-2022.mp3",
+  "pub_date": "Tue, 06 Oct 2026 09:34:46 GMT",
+  "duration_seconds": 925,
+  "file_size_bytes": 7401453,
+  "description": "Toby Shevlane \u2014 Structured Access: An Emerging Paradigm for Safe AI Deployment (2022)",
+  "show_notes": "<p>Toby Shevlane \u2014 Structured Access: An Emerging Paradigm for Safe AI Deployment (2022)</p>\n<p>Shevlane argues that AI developers should move beyond publication norms, which only control what information about a model is shared, toward structured access: controlled, arm's-length interactions in which the developer governs who can use a system, for what, and prevents modification or reproduction. He shows why cloud-based interfaces like OpenAI's GPT-3 API make this far more workable than shipping models to run locally, and confronts the worry that it concentrates power in developers. The Oggy Assessment presses on whether a developer can really police use from prompts alone, whether the paradigm survives the least cooperative lab, and what it means for a real-time regulatory layer for AI.</p>\n<p><b>Chapters:</b><br/>\n0:00 Two Projects, Tightly Linked<br/>\n2:25 Use Controls and Modification Controls<br/>\n4:18 The Limits of Selective Disclosure<br/>\n6:19 Local Deployment<br/>\n7:55 Cloud-Based Deployment<br/>\n10:16 The Centralization of Power<br/>\n12:00 Conclusion<br/>\n12:31 The Oggy Assessment</p>"
+}

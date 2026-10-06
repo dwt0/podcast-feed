@@ -184,6 +184,25 @@
       <guid isPermaLink="true">https://dwt0.github.io/podcast-feed/episodes/chayes-rolejudgepublic-1976.mp3</guid>
     </item>
     <item>
+      <title>Shevlane — Structured Access for Safe AI Deployment (2022)</title>
+      <description>Toby Shevlane — Structured Access: An Emerging Paradigm for Safe AI Deployment (2022)</description>
+      <content:encoded><![CDATA[<p>Toby Shevlane — Structured Access: An Emerging Paradigm for Safe AI Deployment (2022)</p>
+<p>Shevlane argues that AI developers should move beyond publication norms, which only control what information about a model is shared, toward structured access: controlled, arm's-length interactions in which the developer governs who can use a system, for what, and prevents modification or reproduction. He shows why cloud-based interfaces like OpenAI's GPT-3 API make this far more workable than shipping models to run locally, and confronts the worry that it concentrates power in developers. The Oggy Assessment presses on whether a developer can really police use from prompts alone, whether the paradigm survives the least cooperative lab, and what it means for a real-time regulatory layer for AI.</p>
+<p><b>Chapters:</b><br/>
+0:00 Two Projects, Tightly Linked<br/>
+2:25 Use Controls and Modification Controls<br/>
+4:18 The Limits of Selective Disclosure<br/>
+6:19 Local Deployment<br/>
+7:55 Cloud-Based Deployment<br/>
+10:16 The Centralization of Power<br/>
+12:00 Conclusion<br/>
+12:31 The Oggy Assessment</p>]]></content:encoded>
+      <pubDate>Tue, 06 Oct 2026 09:34:46 GMT</pubDate>
+      <enclosure url="https://dwt0.github.io/podcast-feed/episodes/shevlane-structured-access-for-safe-ai-deployment-2022.mp3" length="7401453" type="audio/mpeg"/>
+      <itunes:duration>0:15:25</itunes:duration>
+      <guid isPermaLink="true">https://dwt0.github.io/podcast-feed/episodes/shevlane-structured-access-for-safe-ai-deployment-2022.mp3</guid>
+    </item>
+    <item>
       <title>Marcus &amp; Engstrom - Managerial Courts</title>
       <description>Engstrom, Marcus &amp; Setzer — Managerial Courts</description>
       <content:encoded><![CDATA[<p>Engstrom, Marcus & Setzer — Managerial Courts</p>
