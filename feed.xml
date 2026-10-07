@@ -9,6 +9,26 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
     <item>
+      <title>Shevlane et al. — Model Evaluation for Extreme Risks (2023)</title>
+      <description>Shevlane et al. — Model Evaluation for Extreme Risks (2023)</description>
+      <content:encoded><![CDATA[<p>Shevlane et al. — Model Evaluation for Extreme Risks (2023)</p>
+<p>Toby Shevlane and twenty co-authors from Google DeepMind, OpenAI, Anthropic and others argue that evaluations for dangerous capabilities and for alignment should become critical governance infrastructure for frontier AI, informing whether and how models are trained, deployed, reported and secured. A twelve-minute detailed summary is followed by a three-minute Oggy Assessment, which argues that the training gate may wear down the evaluations the deployment gate relies on, and that the paper's own reasons tell against leaving post-release oversight to the developer alone.</p>
+<p><b>Chapters:</b><br/>
+0:00 Two Kinds of Evaluation<br/>
+1:05 The Frontier and Extreme Risk<br/>
+3:34 Governance Infrastructure and Responsible Training<br/>
+5:08 Responsible Deployment<br/>
+6:48 Transparency and Security<br/>
+7:43 Building the Evaluations<br/>
+9:14 Limitations and Hazards<br/>
+11:49 Recommendations<br/>
+12:38 The Oggy Assessment</p>]]></content:encoded>
+      <pubDate>Wed, 07 Oct 2026 10:10:57 GMT</pubDate>
+      <enclosure url="https://dwt0.github.io/podcast-feed/episodes/shevlane-et-al-model-evaluation-for-extreme-risks-2023.mp3" length="7508781" type="audio/mpeg"/>
+      <itunes:duration>0:15:38</itunes:duration>
+      <guid isPermaLink="true">https://dwt0.github.io/podcast-feed/episodes/shevlane-et-al-model-evaluation-for-extreme-risks-2023.mp3</guid>
+    </item>
+    <item>
       <title>04.07.26 Faculty Workshop - Cole</title>
       <description>04.07.26 Faculty Workshop - Cole</description>
       <content:encoded><![CDATA[<p>04.07.26 Faculty Workshop - Cole</p>

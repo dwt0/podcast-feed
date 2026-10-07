@@ -1,0 +1,9 @@
+{
+  "title": "Shevlane et al. \u2014 Model Evaluation for Extreme Risks (2023)",
+  "filename": "shevlane-et-al-model-evaluation-for-extreme-risks-2023.mp3",
+  "pub_date": "Wed, 07 Oct 2026 10:10:57 GMT",
+  "duration_seconds": 938,
+  "file_size_bytes": 7508781,
+  "description": "Shevlane et al. \u2014 Model Evaluation for Extreme Risks (2023)",
+  "show_notes": "<p>Shevlane et al. \u2014 Model Evaluation for Extreme Risks (2023)</p>\n<p>Toby Shevlane and twenty co-authors from Google DeepMind, OpenAI, Anthropic and others argue that evaluations for dangerous capabilities and for alignment should become critical governance infrastructure for frontier AI, informing whether and how models are trained, deployed, reported and secured. A twelve-minute detailed summary is followed by a three-minute Oggy Assessment, which argues that the training gate may wear down the evaluations the deployment gate relies on, and that the paper's own reasons tell against leaving post-release oversight to the developer alone.</p>\n<p><b>Chapters:</b><br/>\n0:00 Two Kinds of Evaluation<br/>\n1:05 The Frontier and Extreme Risk<br/>\n3:34 Governance Infrastructure and Responsible Training<br/>\n5:08 Responsible Deployment<br/>\n6:48 Transparency and Security<br/>\n7:43 Building the Evaluations<br/>\n9:14 Limitations and Hazards<br/>\n11:49 Recommendations<br/>\n12:38 The Oggy Assessment</p>"
+}
