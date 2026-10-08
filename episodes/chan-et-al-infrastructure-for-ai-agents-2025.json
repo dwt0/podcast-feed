@@ -1,0 +1,9 @@
+{
+  "title": "Chan et al. \u2014 Infrastructure for AI Agents (2025)",
+  "filename": "chan-et-al-infrastructure-for-ai-agents-2025.mp3",
+  "pub_date": "Thu, 08 Oct 2026 10:04:55 GMT",
+  "duration_seconds": 881,
+  "file_size_bytes": 7052013,
+  "description": "Chan, Wei, Huang, Rajkumar, Perrier, Lazar, Hadfield & Anderljung \u2014 Infrastructure for AI Agents (2025)",
+  "show_notes": "<p>Chan, Wei, Huang, Rajkumar, Perrier, Lazar, Hadfield & Anderljung \u2014 Infrastructure for AI Agents (2025)</p>\n<p>Chan and colleagues propose agent infrastructure: technical systems and shared protocols outside AI agents that mediate their interactions with, and impacts on, the world, as a complement to interventions on the models themselves. They catalogue nine kinds across three functions \u2014 attribution (identity binding, certification, agent IDs), interaction (agent channels, oversight layers, inter-agent communication, commitment devices) and response (incident reporting, rollbacks) \u2014 setting out each one's uses, adoption path and limits. The Oggy Assessment asks whether compliance-dependent items escape the assurance problem, whether exclusion reaches agents that route around gated counterparties, how building early squares with the paper's own lock-in warning, and what it all means for runtime oversight of AI agents.</p>\n<p><b>Chapters:</b><br/>\n0:00 What Agent Infrastructure Is<br/>\n1:41 Three Functions, a Company, and Priorities<br/>\n2:56 Attribution<br/>\n5:09 Agent Channels and Oversight Layers<br/>\n6:37 Communication and Commitment<br/>\n8:24 Response<br/>\n10:02 Challenges, Related Work, and Conclusion<br/>\n11:20 The Oggy Assessment</p>"
+}

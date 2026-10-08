@@ -380,6 +380,25 @@
       <guid isPermaLink="true">https://dwt0.github.io/podcast-feed/episodes/schwarcz-wolff-ai-and-insurance.mp3</guid>
     </item>
     <item>
+      <title>Chan et al. — Infrastructure for AI Agents (2025)</title>
+      <description>Chan, Wei, Huang, Rajkumar, Perrier, Lazar, Hadfield &amp; Anderljung — Infrastructure for AI Agents (2025)</description>
+      <content:encoded><![CDATA[<p>Chan, Wei, Huang, Rajkumar, Perrier, Lazar, Hadfield & Anderljung — Infrastructure for AI Agents (2025)</p>
+<p>Chan and colleagues propose agent infrastructure: technical systems and shared protocols outside AI agents that mediate their interactions with, and impacts on, the world, as a complement to interventions on the models themselves. They catalogue nine kinds across three functions — attribution (identity binding, certification, agent IDs), interaction (agent channels, oversight layers, inter-agent communication, commitment devices) and response (incident reporting, rollbacks) — setting out each one's uses, adoption path and limits. The Oggy Assessment asks whether compliance-dependent items escape the assurance problem, whether exclusion reaches agents that route around gated counterparties, how building early squares with the paper's own lock-in warning, and what it all means for runtime oversight of AI agents.</p>
+<p><b>Chapters:</b><br/>
+0:00 What Agent Infrastructure Is<br/>
+1:41 Three Functions, a Company, and Priorities<br/>
+2:56 Attribution<br/>
+5:09 Agent Channels and Oversight Layers<br/>
+6:37 Communication and Commitment<br/>
+8:24 Response<br/>
+10:02 Challenges, Related Work, and Conclusion<br/>
+11:20 The Oggy Assessment</p>]]></content:encoded>
+      <pubDate>Thu, 08 Oct 2026 10:04:55 GMT</pubDate>
+      <enclosure url="https://dwt0.github.io/podcast-feed/episodes/chan-et-al-infrastructure-for-ai-agents-2025.mp3" length="7052013" type="audio/mpeg"/>
+      <itunes:duration>0:14:41</itunes:duration>
+      <guid isPermaLink="true">https://dwt0.github.io/podcast-feed/episodes/chan-et-al-infrastructure-for-ai-agents-2025.mp3</guid>
+    </item>
+    <item>
       <title>Abraham_Self-Proving Causation</title>
       <description>Kenneth S. Abraham — Self-Proving Causation (Virginia Law Review, 2013)</description>
       <content:encoded><![CDATA[<p>Kenneth S. Abraham — Self-Proving Causation (Virginia Law Review, 2013)</p>
