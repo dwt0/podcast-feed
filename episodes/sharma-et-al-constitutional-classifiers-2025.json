@@ -1,0 +1,9 @@
+{
+  "title": "Sharma et al. \u2014 Constitutional Classifiers (2025)",
+  "filename": "sharma-et-al-constitutional-classifiers-2025.mp3",
+  "pub_date": "Fri, 09 Oct 2026 10:02:59 GMT",
+  "duration_seconds": 877,
+  "file_size_bytes": 7019949,
+  "description": "Sharma et al. \u2014 Constitutional Classifiers: Defending against Universal Jailbreaks across Thousands of Hours of Red Teaming (Anthropic, 2025)",
+  "show_notes": "<p>Sharma et al. \u2014 Constitutional Classifiers: Defending against Universal Jailbreaks across Thousands of Hours of Red Teaming (Anthropic, 2025)</p>\n<p>Anthropic's Safeguards Research Team guards a language model with input and output classifiers trained on synthetic data generated from a natural-language constitution of permitted and restricted content, with a streaming output classifier that can halt generation mid-response. In over 3,000 estimated hours of bug-bounty red teaming, no red teamer found a universal jailbreak extracting detail similar to an unguarded model across the target questions; an improved system blocked over 95 per cent of held-out jailbreak attempts at a 0.38-point increase in production refusals and 23.7 per cent inference overhead. The Oggy Assessment questions how far the headline outruns a bounty paid at half detail and a deployable configuration that was never human red-teamed, and what the paper implies for a real-time regulatory layer for AI.</p>\n<p><b>Chapters:</b><br/>\n0:16 Universal Jailbreaks and Three Requirements<br/>\n1:59 Constitutional Classifiers<br/>\n4:02 The Bug-Bounty Red Teaming<br/>\n5:42 What the Red Teamers Found<br/>\n8:21 Which Defensive Components Matter<br/>\n9:03 A Practical Chemical-Weapons System<br/>\n10:44 Related Work and Conclusion<br/>\n11:34 The Oggy Assessment</p>"
+}

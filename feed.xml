@@ -611,6 +611,25 @@ Armed with a coherent acc<br/>
       <guid isPermaLink="true">https://dwt0.github.io/podcast-feed/episodes/cox-hardwiring-hercules-2026.mp3</guid>
     </item>
     <item>
+      <title>Sharma et al. — Constitutional Classifiers (2025)</title>
+      <description>Sharma et al. — Constitutional Classifiers: Defending against Universal Jailbreaks across Thousands of Hours of Red Teaming (Anthropic, 2025)</description>
+      <content:encoded><![CDATA[<p>Sharma et al. — Constitutional Classifiers: Defending against Universal Jailbreaks across Thousands of Hours of Red Teaming (Anthropic, 2025)</p>
+<p>Anthropic's Safeguards Research Team guards a language model with input and output classifiers trained on synthetic data generated from a natural-language constitution of permitted and restricted content, with a streaming output classifier that can halt generation mid-response. In over 3,000 estimated hours of bug-bounty red teaming, no red teamer found a universal jailbreak extracting detail similar to an unguarded model across the target questions; an improved system blocked over 95 per cent of held-out jailbreak attempts at a 0.38-point increase in production refusals and 23.7 per cent inference overhead. The Oggy Assessment questions how far the headline outruns a bounty paid at half detail and a deployable configuration that was never human red-teamed, and what the paper implies for a real-time regulatory layer for AI.</p>
+<p><b>Chapters:</b><br/>
+0:16 Universal Jailbreaks and Three Requirements<br/>
+1:59 Constitutional Classifiers<br/>
+4:02 The Bug-Bounty Red Teaming<br/>
+5:42 What the Red Teamers Found<br/>
+8:21 Which Defensive Components Matter<br/>
+9:03 A Practical Chemical-Weapons System<br/>
+10:44 Related Work and Conclusion<br/>
+11:34 The Oggy Assessment</p>]]></content:encoded>
+      <pubDate>Fri, 09 Oct 2026 10:02:59 GMT</pubDate>
+      <enclosure url="https://dwt0.github.io/podcast-feed/episodes/sharma-et-al-constitutional-classifiers-2025.mp3" length="7019949" type="audio/mpeg"/>
+      <itunes:duration>0:14:37</itunes:duration>
+      <guid isPermaLink="true">https://dwt0.github.io/podcast-feed/episodes/sharma-et-al-constitutional-classifiers-2025.mp3</guid>
+    </item>
+    <item>
       <title>Kaptein, Khan &amp; Podstavnychy — Runtime Governance for AI Agents (2026)</title>
       <description>Kaptein, Khan &amp; Podstavnychy — Runtime Governance for AI Agents: Policies on Paths (2026)</description>
       <content:encoded><![CDATA[<p>Kaptein, Khan & Podstavnychy — Runtime Governance for AI Agents: Policies on Paths (2026)</p>
