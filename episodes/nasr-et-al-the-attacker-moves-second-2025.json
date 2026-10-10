@@ -1,0 +1,9 @@
+{
+  "title": "Nasr et al. \u2014 The Attacker Moves Second (2025)",
+  "filename": "nasr-et-al-the-attacker-moves-second-2025.mp3",
+  "pub_date": "Sat, 10 Oct 2026 10:15:56 GMT",
+  "duration_seconds": 969,
+  "file_size_bytes": 7756077,
+  "description": "Nasr et al. \u2014 The Attacker Moves Second: Stronger Adaptive Attacks Bypass Defenses Against LLM Jailbreaks and Prompt Injections (arXiv preprint, 2025)",
+  "show_notes": "<p>Nasr et al. \u2014 The Attacker Moves Second: Stronger Adaptive Attacks Bypass Defenses Against LLM Jailbreaks and Prompt Injections (arXiv preprint, 2025)</p>\n<p>Nasr, Carlini, Tram\u00e8r and colleagues argue that defenses against LLM jailbreaks and prompt injections are usually evaluated against static attack sets or weak optimization that never adapts to the defense, and that this evaluation process is flawed. Using one propose-score-select-update loop, run as gradient, reinforcement-learning, search and human red-teaming attacks, they bypass twelve recent defenses (prompting, adversarial training, filtering models and secret-knowledge schemes) with attack success above 90 per cent for most, where the majority originally reported near-zero; a human competition with over 500 participants defeated every challenge. The Oggy Assessment asks how far the evidence carries the verdict on individual defenses, given partial protection, feedback-rich attackers and untested transfer, and what the paper implies for a real-time regulatory layer for AI.</p>\n<p><b>Chapters:</b><br/>\n0:00 The Attacker Moves Second<br/>\n2:04 A Brief History of Adversarial Evaluation<br/>\n3:24 Threat Model and the Compute Assumption<br/>\n4:34 Propose, Score, Select, Update<br/>\n6:16 Prompting and Training Defenses<br/>\n8:38 Filters and Secret Knowledge<br/>\n10:52 Four Lessons and a Conclusion<br/>\n12:49 The Oggy Assessment</p>"
+}

@@ -474,6 +474,25 @@
       <guid isPermaLink="true">https://dwt0.github.io/podcast-feed/episodes/sastry-et-al-computing-power-and-the-governance-of-ai-2024.mp3</guid>
     </item>
     <item>
+      <title>Nasr et al. — The Attacker Moves Second (2025)</title>
+      <description>Nasr et al. — The Attacker Moves Second: Stronger Adaptive Attacks Bypass Defenses Against LLM Jailbreaks and Prompt Injections (arXiv preprint, 2025)</description>
+      <content:encoded><![CDATA[<p>Nasr et al. — The Attacker Moves Second: Stronger Adaptive Attacks Bypass Defenses Against LLM Jailbreaks and Prompt Injections (arXiv preprint, 2025)</p>
+<p>Nasr, Carlini, Tramèr and colleagues argue that defenses against LLM jailbreaks and prompt injections are usually evaluated against static attack sets or weak optimization that never adapts to the defense, and that this evaluation process is flawed. Using one propose-score-select-update loop, run as gradient, reinforcement-learning, search and human red-teaming attacks, they bypass twelve recent defenses (prompting, adversarial training, filtering models and secret-knowledge schemes) with attack success above 90 per cent for most, where the majority originally reported near-zero; a human competition with over 500 participants defeated every challenge. The Oggy Assessment asks how far the evidence carries the verdict on individual defenses, given partial protection, feedback-rich attackers and untested transfer, and what the paper implies for a real-time regulatory layer for AI.</p>
+<p><b>Chapters:</b><br/>
+0:00 The Attacker Moves Second<br/>
+2:04 A Brief History of Adversarial Evaluation<br/>
+3:24 Threat Model and the Compute Assumption<br/>
+4:34 Propose, Score, Select, Update<br/>
+6:16 Prompting and Training Defenses<br/>
+8:38 Filters and Secret Knowledge<br/>
+10:52 Four Lessons and a Conclusion<br/>
+12:49 The Oggy Assessment</p>]]></content:encoded>
+      <pubDate>Sat, 10 Oct 2026 10:15:56 GMT</pubDate>
+      <enclosure url="https://dwt0.github.io/podcast-feed/episodes/nasr-et-al-the-attacker-moves-second-2025.mp3" length="7756077" type="audio/mpeg"/>
+      <itunes:duration>0:16:09</itunes:duration>
+      <guid isPermaLink="true">https://dwt0.github.io/podcast-feed/episodes/nasr-et-al-the-attacker-moves-second-2025.mp3</guid>
+    </item>
+    <item>
       <title>Kolt — Governing AI Agents (2025)</title>
       <description>Noam Kolt — Governing AI Agents (101 Notre Dame Law Review, forthcoming 2025)</description>
       <content:encoded><![CDATA[<p>Noam Kolt — Governing AI Agents (101 Notre Dame Law Review, forthcoming 2025)</p>
