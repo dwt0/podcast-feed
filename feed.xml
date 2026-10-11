@@ -454,6 +454,25 @@
       <guid isPermaLink="true">https://dwt0.github.io/podcast-feed/episodes/chan-et-al-visibility-into-ai-agents-2024.mp3</guid>
     </item>
     <item>
+      <title>Debenedetti et al. — Defeating Prompt Injections by Design (2025)</title>
+      <description>Debenedetti et al. — Defeating Prompt Injections by Design (2025)</description>
+      <content:encoded><![CDATA[<p>Debenedetti et al. — Defeating Prompt Injections by Design (2025)</p>
+<p>Edoardo Debenedetti and nine colleagues at Google, Google DeepMind and ETH Zurich propose CaMeL, a defense that puts a protective system layer around a language-model agent: a privileged model turns the trusted user query into code, a quarantined model with no tools parses untrusted data, and a custom interpreter tracks data flow and capabilities and checks security policies before every tool call. On the AgentDojo benchmark it stops nearly all prompt-injection attacks while solving 77% of tasks, against 84% for an undefended system. The Oggy Assessment asks what 'provable security' actually covers, how much the results lean on users approving flagged actions, and what the design means for rules enforced while an AI system runs.</p>
+<p><b>Chapters:</b><br/>
+0:13 The Problem, and Why Two Models Are Not Enough<br/>
+2:05 Threat Model and Security Game<br/>
+3:08 How CaMeL Works<br/>
+5:20 Utility<br/>
+6:45 Security Results<br/>
+9:33 Side Channels and Secondary Threats<br/>
+10:33 Discussion, Future Work and Conclusion<br/>
+12:09 The Oggy Assessment</p>]]></content:encoded>
+      <pubDate>Sun, 11 Oct 2026 10:10:36 GMT</pubDate>
+      <enclosure url="https://dwt0.github.io/podcast-feed/episodes/debenedetti-et-al-defeating-prompt-injections-by-design-2025.mp3" length="7319085" type="audio/mpeg"/>
+      <itunes:duration>0:15:14</itunes:duration>
+      <guid isPermaLink="true">https://dwt0.github.io/podcast-feed/episodes/debenedetti-et-al-defeating-prompt-injections-by-design-2025.mp3</guid>
+    </item>
+    <item>
       <title>Sastry et al. — Computing Power and the Governance of AI (2024)</title>
       <description>Sastry et al. — Computing Power and the Governance of Artificial Intelligence (2024)</description>
       <content:encoded><![CDATA[<p>Sastry et al. — Computing Power and the Governance of Artificial Intelligence (2024)</p>

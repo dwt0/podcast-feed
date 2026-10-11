@@ -1,0 +1,9 @@
+{
+  "title": "Debenedetti et al. \u2014 Defeating Prompt Injections by Design (2025)",
+  "filename": "debenedetti-et-al-defeating-prompt-injections-by-design-2025.mp3",
+  "pub_date": "Sun, 11 Oct 2026 10:10:36 GMT",
+  "duration_seconds": 914,
+  "file_size_bytes": 7319085,
+  "description": "Debenedetti et al. \u2014 Defeating Prompt Injections by Design (2025)",
+  "show_notes": "<p>Debenedetti et al. \u2014 Defeating Prompt Injections by Design (2025)</p>\n<p>Edoardo Debenedetti and nine colleagues at Google, Google DeepMind and ETH Zurich propose CaMeL, a defense that puts a protective system layer around a language-model agent: a privileged model turns the trusted user query into code, a quarantined model with no tools parses untrusted data, and a custom interpreter tracks data flow and capabilities and checks security policies before every tool call. On the AgentDojo benchmark it stops nearly all prompt-injection attacks while solving 77% of tasks, against 84% for an undefended system. The Oggy Assessment asks what 'provable security' actually covers, how much the results lean on users approving flagged actions, and what the design means for rules enforced while an AI system runs.</p>\n<p><b>Chapters:</b><br/>\n0:13 The Problem, and Why Two Models Are Not Enough<br/>\n2:05 Threat Model and Security Game<br/>\n3:08 How CaMeL Works<br/>\n5:20 Utility<br/>\n6:45 Security Results<br/>\n9:33 Side Channels and Secondary Threats<br/>\n10:33 Discussion, Future Work and Conclusion<br/>\n12:09 The Oggy Assessment</p>"
+}
