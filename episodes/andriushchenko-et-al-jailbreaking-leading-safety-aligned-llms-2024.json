@@ -1,0 +1,9 @@
+{
+  "title": "Andriushchenko et al. \u2014 Jailbreaking Leading Safety-Aligned LLMs (2024)",
+  "filename": "andriushchenko-et-al-jailbreaking-leading-safety-aligned-llms-2024.mp3",
+  "pub_date": "Mon, 12 Oct 2026 11:54:24 GMT",
+  "duration_seconds": 929,
+  "file_size_bytes": 7438509,
+  "description": "Andriushchenko, Croce & Flammarion \u2014 Jailbreaking Leading Safety-Aligned LLMs with Simple Adaptive Attacks (2024)",
+  "show_notes": "<p>Andriushchenko, Croce & Flammarion \u2014 Jailbreaking Leading Safety-Aligned LLMs with Simple Adaptive Attacks (2024)</p>\n<p>Andriushchenko, Croce and Flammarion show that simple adaptive attacks (a hand-designed prompt template with a random-search suffix, self-transfer, transfer, and prefilling where an interface allows it) reach a one hundred per cent attack success rate, as scored by a GPT-4 judge, on leading safety-aligned models including Llama, Gemma, GPT-4o, R2D2 and all the Claude models. Their main takeaway is that adaptive attacks are crucial for accurate robustness evaluations. The Oggy Assessment asks what the one hundred per cent figure measures, and what it implies for a real-time regulatory layer for AI.</p>\n<p><b>Chapters:</b><br/>\n0:19 The Claim and the Setting<br/>\n2:05 The Building Blocks<br/>\n4:26 Llama, Gemma and R Two D Two<br/>\n5:56 The GPT Models<br/>\n7:14 The Claude Models<br/>\n8:38 Trojan Detection<br/>\n10:14 Findings, Recommendations and Limitations<br/>\n12:12 The Oggy Assessment</p>"
+}

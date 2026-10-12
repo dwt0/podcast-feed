@@ -558,6 +558,25 @@
       <guid isPermaLink="true">https://dwt0.github.io/podcast-feed/episodes/what-is-arbitrariness-conceptual-definitions-in-legal-review.mp3</guid>
     </item>
     <item>
+      <title>Andriushchenko et al. — Jailbreaking Leading Safety-Aligned LLMs (2024)</title>
+      <description>Andriushchenko, Croce &amp; Flammarion — Jailbreaking Leading Safety-Aligned LLMs with Simple Adaptive Attacks (2024)</description>
+      <content:encoded><![CDATA[<p>Andriushchenko, Croce & Flammarion — Jailbreaking Leading Safety-Aligned LLMs with Simple Adaptive Attacks (2024)</p>
+<p>Andriushchenko, Croce and Flammarion show that simple adaptive attacks (a hand-designed prompt template with a random-search suffix, self-transfer, transfer, and prefilling where an interface allows it) reach a one hundred per cent attack success rate, as scored by a GPT-4 judge, on leading safety-aligned models including Llama, Gemma, GPT-4o, R2D2 and all the Claude models. Their main takeaway is that adaptive attacks are crucial for accurate robustness evaluations. The Oggy Assessment asks what the one hundred per cent figure measures, and what it implies for a real-time regulatory layer for AI.</p>
+<p><b>Chapters:</b><br/>
+0:19 The Claim and the Setting<br/>
+2:05 The Building Blocks<br/>
+4:26 Llama, Gemma and R Two D Two<br/>
+5:56 The GPT Models<br/>
+7:14 The Claude Models<br/>
+8:38 Trojan Detection<br/>
+10:14 Findings, Recommendations and Limitations<br/>
+12:12 The Oggy Assessment</p>]]></content:encoded>
+      <pubDate>Mon, 12 Oct 2026 11:54:24 GMT</pubDate>
+      <enclosure url="https://dwt0.github.io/podcast-feed/episodes/andriushchenko-et-al-jailbreaking-leading-safety-aligned-llms-2024.mp3" length="7438509" type="audio/mpeg"/>
+      <itunes:duration>0:15:29</itunes:duration>
+      <guid isPermaLink="true">https://dwt0.github.io/podcast-feed/episodes/andriushchenko-et-al-jailbreaking-leading-safety-aligned-llms-2024.mp3</guid>
+    </item>
+    <item>
       <title>facct2025-final2475-acmpaginated</title>
       <description>Shira Gur-Arieh and Christina Lee — Consistently Arbitrary or Arbitrarily Consistent: Navigating the Tensions Between Homogenization and Multiplicity in Algorithmic Decision-Making (FAccT 2025)</description>
       <content:encoded><![CDATA[<p>Shira Gur-Arieh and Christina Lee — Consistently Arbitrary or Arbitrarily Consistent: Navigating the Tensions Between Homogenization and Multiplicity in Algorithmic Decision-Making (FAccT 2025)</p>
