@@ -174,6 +174,25 @@
       <guid isPermaLink="true">https://dwt0.github.io/podcast-feed/episodes/93yalelj.mp3</guid>
     </item>
     <item>
+      <title>Han et al. — WildGuard, Open One-Stop Moderation Tools (2024)</title>
+      <description>Han et al. — WildGuard: Open One-Stop Moderation Tools for Safety Risks, Jailbreaks, and Refusals of LLMs (2024)</description>
+      <content:encoded><![CDATA[<p>Han et al. — WildGuard: Open One-Stop Moderation Tools for Safety Risks, Jailbreaks, and Refusals of LLMs (2024)</p>
+<p>Han and colleagues at the Allen Institute for AI introduce WildGuard, an open seven-billion-parameter moderation model that judges prompt harmfulness, response harmfulness and refusal in one pass, trained on WildGuardMix, a new 92,000-example dataset built to cover adversarial jailbreaks. They report state-of-the-art results among open tools, performance matching and sometimes exceeding GPT-4, and a cut in jailbreak success from 79.8% to 2.4% when it filters a 7B chat model. The Oggy Assessment asks how much of the margin is in-distribution, how firm the ground truth is, and what the result does and does not show for a real-time regulatory layer for AI.</p>
+<p><b>Chapters:</b><br/>
+0:00 Introduction: Three Tasks and Two Gaps<br/>
+2:11 The Status Quo: Two Findings About Open Tools<br/>
+3:45 Building WildGuardTrain<br/>
+5:56 WildGuardTest, XSTest-Resp, and Training<br/>
+7:05 Results on Prompt Harm, Response Harm and Refusal<br/>
+8:36 Ablations and the Moderation Demonstration<br/>
+10:42 Related Work, Limitations, Ethics and Conclusion<br/>
+12:02 The Oggy Assessment</p>]]></content:encoded>
+      <pubDate>Tue, 13 Oct 2026 10:03:12 GMT</pubDate>
+      <enclosure url="https://dwt0.github.io/podcast-feed/episodes/han-et-al-wildguard-open-one-stop-moderation-tools-2024.mp3" length="7203885" type="audio/mpeg"/>
+      <itunes:duration>0:15:00</itunes:duration>
+      <guid isPermaLink="true">https://dwt0.github.io/podcast-feed/episodes/han-et-al-wildguard-open-one-stop-moderation-tools-2024.mp3</guid>
+    </item>
+    <item>
       <title>Fuller - Forms and Limits of Adjudication</title>
       <description>Lon L. Fuller — The Forms and Limits of Adjudication (92 Harv. L. Rev. 353 (1978))</description>
       <content:encoded><![CDATA[<p>Lon L. Fuller — The Forms and Limits of Adjudication (92 Harv. L. Rev. 353 (1978))</p>

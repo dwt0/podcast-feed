@@ -1,0 +1,9 @@
+{
+  "title": "Han et al. \u2014 WildGuard, Open One-Stop Moderation Tools (2024)",
+  "filename": "han-et-al-wildguard-open-one-stop-moderation-tools-2024.mp3",
+  "pub_date": "Tue, 13 Oct 2026 10:03:12 GMT",
+  "duration_seconds": 900,
+  "file_size_bytes": 7203885,
+  "description": "Han et al. \u2014 WildGuard: Open One-Stop Moderation Tools for Safety Risks, Jailbreaks, and Refusals of LLMs (2024)",
+  "show_notes": "<p>Han et al. \u2014 WildGuard: Open One-Stop Moderation Tools for Safety Risks, Jailbreaks, and Refusals of LLMs (2024)</p>\n<p>Han and colleagues at the Allen Institute for AI introduce WildGuard, an open seven-billion-parameter moderation model that judges prompt harmfulness, response harmfulness and refusal in one pass, trained on WildGuardMix, a new 92,000-example dataset built to cover adversarial jailbreaks. They report state-of-the-art results among open tools, performance matching and sometimes exceeding GPT-4, and a cut in jailbreak success from 79.8% to 2.4% when it filters a 7B chat model. The Oggy Assessment asks how much of the margin is in-distribution, how firm the ground truth is, and what the result does and does not show for a real-time regulatory layer for AI.</p>\n<p><b>Chapters:</b><br/>\n0:00 Introduction: Three Tasks and Two Gaps<br/>\n2:11 The Status Quo: Two Findings About Open Tools<br/>\n3:45 Building WildGuardTrain<br/>\n5:56 WildGuardTest, XSTest-Resp, and Training<br/>\n7:05 Results on Prompt Harm, Response Harm and Refusal<br/>\n8:36 Ablations and the Moderation Demonstration<br/>\n10:42 Related Work, Limitations, Ethics and Conclusion<br/>\n12:02 The Oggy Assessment</p>"
+}
