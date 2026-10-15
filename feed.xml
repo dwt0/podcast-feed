@@ -311,6 +311,24 @@
       <guid isPermaLink="true">https://dwt0.github.io/podcast-feed/episodes/07-kolt-governingaiagents.mp3</guid>
     </item>
     <item>
+      <title>Weights &amp; Measures — Attribution Graphs, a Microscope With Limits</title>
+      <description>Lindsey, Ameisen, Batson et al. (Anthropic) — On the Biology of a Large Language Model + Circuit Tracing (2025)</description>
+      <content:encoded><![CDATA[<p>Lindsey, Ameisen, Batson et al. (Anthropic) — On the Biology of a Large Language Model + Circuit Tracing (2025)</p>
+<p>How do you see what a language model is actually doing when it answers? Jack and Molly walk through Anthropic's March 2025 attribution-graph papers, which trace step by step how Claude 3.5 Haiku reached particular answers: planning a rhyme, two-step reasoning, arithmetic and a jailbreak. They cover what the method can and can't show, how the field has taken it up since, and whether law should lean on it as an explanation of a model's output.<br/><br/>Notes: the ~50% next-word match is for an 18-layer research model's transcoder, and "about a fifth" is Haiku's normalized reconstruction error, averaged across layers. The Claude Opus 4.6 system card (Feb 2026) applied the paper's attribution-graph method, built on weakly causal crosscoders rather than the paper's cross-layer transcoder.<br/><br/>Jack and Molly are AI-generated hosts; research and script by Oggy.<br/><br/>Sources: https://transformer-circuits.pub/2025/attribution-graphs/biology.html · https://transformer-circuits.pub/2025/attribution-graphs/methods.html · https://www.anthropic.com/research/tracing-thoughts-language-model · https://www.anthropic.com/research/open-source-circuit-tracing</p>
+<p><b>Chapters:</b><br/>
+0:00 Cold open: the rabbit couplet<br/>
+0:51 Why this paper: from concepts to computation<br/>
+2:11 The mechanism: a replacement model, tested on the real one<br/>
+5:54 What they found: rhymes, sums and a jailbreak<br/>
+8:51 Connecting the dots: faithfulness, uptake and the critics<br/>
+11:39 The policy thread: what counts as an explanation<br/>
+15:17 Close: what to watch</p>]]></content:encoded>
+      <pubDate>Thu, 15 Oct 2026 09:07:04 GMT</pubDate>
+      <enclosure url="https://dwt0.github.io/podcast-feed/episodes/weights-measures-attribution-graphs-a-microscope-with-limits.mp3" length="7631085" type="audio/mpeg"/>
+      <itunes:duration>0:15:53</itunes:duration>
+      <guid isPermaLink="true">https://dwt0.github.io/podcast-feed/episodes/weights-measures-attribution-graphs-a-microscope-with-limits.mp3</guid>
+    </item>
+    <item>
       <title>vol127_shaw</title>
       <description>Geoffrey C. Shaw — H. L. A. Hart's Lost Essay: Discretion and the Legal Process School (127 Harv. L. Rev. 666, 2013)</description>
       <content:encoded><![CDATA[<p>Geoffrey C. Shaw — H. L. A. Hart's Lost Essay: Discretion and the Legal Process School (127 Harv. L. Rev. 666, 2013)</p>
