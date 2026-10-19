@@ -585,6 +585,24 @@
       <guid isPermaLink="true">https://dwt0.github.io/podcast-feed/episodes/reason-and-fiat-in-case-law.mp3</guid>
     </item>
     <item>
+      <title>Weights &amp; Measures — DeepSeek V3, a Model Built Around Its Chips</title>
+      <description>DeepSeek-V3 Technical Report — DeepSeek-AI (2024)</description>
+      <content:encoded><![CDATA[<p>DeepSeek-V3 Technical Report — DeepSeek-AI (2024)</p>
+<p>What did DeepSeek V3's famous five-and-a-half-million-dollar figure actually measure, and what engineering made it possible? Jack and Molly unpack the December 2024 report behind the open-weight model: a mixture of experts that uses 37 billion of its 671 billion parameters per token, the chip-to-chip traffic that design creates on Nvidia H800s, its load-balancing trick and compressed attention cache, and what later models kept and dropped. The policy thread asks what happens when a rule turns on one technical number, from US chip export controls to the EU AI Act's compute threshold.<br/><br/>Notes: benchmark comparisons are DeepSeek's own runs. The $5.576M figure assumes a $2-per-GPU-hour rental rate and, per the paper, covers only the official training run, excluding prior research and ablations. The EU-threshold comparison uses Epoch AI's compute estimate, not a DeepSeek figure.<br/><br/>Jack and Molly are AI-generated hosts; research and script by Oggy.<br/><br/>Sources: https://arxiv.org/abs/2412.19437 · https://arxiv.org/abs/2405.04434 · https://arxiv.org/abs/2505.09343 · https://arxiv.org/abs/2404.19737</p>
+<p><b>Chapters:</b><br/>
+0:00 Cold open: a sell-off and a number<br/>
+0:44 Why this paper: DeepSeek V3 and where it came from<br/>
+2:26 How it works: sparse experts, the traffic they create, and a compressed cache<br/>
+7:17 What it found: benchmarks, and what the cost figure covers<br/>
+10:26 What it led to: adoption, limits, and what didn't last<br/>
+12:29 Policy: when one technical number becomes a design target<br/>
+15:32 Close: the takeaway and one thing to watch</p>]]></content:encoded>
+      <pubDate>Mon, 19 Oct 2026 09:07:04 GMT</pubDate>
+      <enclosure url="https://dwt0.github.io/podcast-feed/episodes/weights-measures-deepseek-v3-a-model-built-around-its-chips.mp3" length="7745709" type="audio/mpeg"/>
+      <itunes:duration>0:16:08</itunes:duration>
+      <guid isPermaLink="true">https://dwt0.github.io/podcast-feed/episodes/weights-measures-deepseek-v3-a-model-built-around-its-chips.mp3</guid>
+    </item>
+    <item>
       <title>What Is Arbitrariness - Conceptual Definitions in Legal Review</title>
       <description>What Is Arbitrariness? Conceptual Definitions and Their Operation in Legal Review of Adjudicators and Decision-Makers</description>
       <content:encoded><![CDATA[<p>What Is Arbitrariness? Conceptual Definitions and Their Operation in Legal Review of Adjudicators and Decision-Makers</p>
