@@ -312,6 +312,25 @@
       <guid isPermaLink="true">https://dwt0.github.io/podcast-feed/episodes/volokh-lemley-henderson-1a-and-ai-output.mp3</guid>
     </item>
     <item>
+      <title>Weights &amp; Measures — The Agent Loop, from ReAct to Context Engineering</title>
+      <description>ReAct — Yao et al. (Princeton + Google, 2022); Building effective agents — Schluntz &amp; Zhang (Anthropic, 2024); Effective context engineering for AI agents — Anthropic Applied AI (2025)</description>
+      <content:encoded><![CDATA[<p>ReAct — Yao et al. (Princeton + Google, 2022); Building effective agents — Schluntz & Zhang (Anthropic, 2024); Effective context engineering for AI agents — Anthropic Applied AI (2025)</p>
+<p>What is an AI agent, mechanically? Jack and Molly trace the loop from ReAct (2022), which put a model's reasoning and its tool calls into one running transcript, to Anthropic's "Building effective agents" (2024), which made workflow versus agent a question of who writes the control flow, to Anthropic's 2025 guide to context engineering, which argues that the hard part is now what goes into that transcript as it grows. They cover how the loop was trained into reasoning models, a challenge to why ReAct's prompts worked, the multi-agent debate between Cognition and Anthropic, why bigger context windows haven't ended "context rot", and what California's AB 316, a 1999 uniform-law comment and the EU AI Act's delayed logging rules mean for who chose an agent's actions and what it knew.<br/><br/>Notes: the ninety percent multi-agent gain is a relative figure on Anthropic's internal research eval. The Lost in the Middle and Chroma results come from 2023 and 2025 models. The "brittle foundations" result is one preprint on one of ReAct's four test domains. Molly's readings of AB 316 and of the 1999 Uniform Electronic Transactions Act comment are her analysis, not a court's.<br/><br/>Jack and Molly are AI-generated hosts; research and script by Oggy.<br/><br/>Sources: https://arxiv.org/abs/2210.03629 · https://www.anthropic.com/engineering/building-effective-agents · https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents · https://arxiv.org/abs/2307.03172 · https://research.trychroma.com/context-rot · https://www.anthropic.com/engineering/multi-agent-research-system · https://cognition.ai/blog/dont-build-multi-agents<br/><br/>Also cited: Verma, Bhambri & Kambhampati (2024) https://arxiv.org/abs/2405.13966 · Cognition, "Multi-Agents: What's Actually Working" (2026) https://cognition.com/blog/multi-agents-working · OpenAI, "A practical guide to building agents" https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf · Anthropic, Managed Agents https://www.anthropic.com/engineering/managed-agents · Claude Opus 4.6 https://www.anthropic.com/news/claude-opus-4-6 · Martin & Roger (2026) https://arxiv.org/abs/2605.12366 · AB 316 https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB316 · Regulation (EU) 2026/1744 https://eur-lex.europa.eu/eli/reg/2026/1744/oj/eng</p>
+<p><b>Chapters:</b><br/>
+0:00 Cold open: the answer buried in the middle, and the agent loop<br/>
+0:57 Why these three: reasoning meets acting, and a vocabulary spreads<br/>
+2:23 The loop: how ReAct interleaves thoughts and actions<br/>
+6:06 Workflows versus agents: who writes the control flow<br/>
+7:54 The transcript problem: context rot and context engineering<br/>
+10:49 What came next: the loop trained in, a challenge to ReAct, and multi-agent systems<br/>
+12:44 Policy: a 1999 uniform-law comment, California's AB 316, standards of care, and the agent's record<br/>
+15:44 Close: what counts as an agent's record, and the takeaway</p>]]></content:encoded>
+      <pubDate>Thu, 22 Oct 2026 09:07:04 GMT</pubDate>
+      <enclosure url="https://dwt0.github.io/podcast-feed/episodes/weights-measures-the-agent-loop-from-react-to-context-engineering.mp3" length="7766253" type="audio/mpeg"/>
+      <itunes:duration>0:16:10</itunes:duration>
+      <guid isPermaLink="true">https://dwt0.github.io/podcast-feed/episodes/weights-measures-the-agent-loop-from-react-to-context-engineering.mp3</guid>
+    </item>
+    <item>
       <title>07_Kolt_GoverningAIAgents</title>
       <description>Noam Kolt — Governing AI Agents (101 Notre Dame L. Rev., forthcoming)</description>
       <content:encoded><![CDATA[<p>Noam Kolt — Governing AI Agents (101 Notre Dame L. Rev., forthcoming)</p>
