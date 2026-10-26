@@ -622,6 +622,24 @@
       <guid isPermaLink="true">https://dwt0.github.io/podcast-feed/episodes/reason-and-fiat-in-case-law.mp3</guid>
     </item>
     <item>
+      <title>Weights &amp; Measures — Reliability or Reach, What RL Really Teaches</title>
+      <description>Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model? — Yue et al. (LeapLab, Tsinghua University; Shanghai Jiao Tong University, 2025)</description>
+      <content:encoded><![CDATA[<p>Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model? — Yue et al. (LeapLab, Tsinghua University; Shanghai Jiao Tong University, 2025)</p>
+<p>Does reinforcement learning on checkable answers teach a language model new reasoning, or just make it better at picking reasoning it could already produce? Jack and Molly unpack Yue et al.'s NeurIPS 2025 best-paper runner-up, which compared trained and base models by how many problems each solves in one try versus a thousand: the trained model wins at one try, but its solved set is nearly a subset of the base model's, while distillation from a stronger teacher raised the ceiling. They follow the debate it started (random rewards that help Qwen models but not Llama or OLMo, one-example RL, NVIDIA's prolonged-RL rebuttal and the 2026 re-test of it, CMU's 'edge of competence' study) and ask what it means for compute thresholds that now count RL (California's SB 53, New York's RAISE Act), the EU's one-third modification rule, and evaluating models with many tries.<br/><br/>Notes: the paper's results are on open models up to 32B parameters plus one Magistral Medium check, where the base model never overtook the RL model; the authors softened their headline from "does not" to "rarely" between versions. The Invisible Leash re-test is a preprint; the CMU study uses a 100-million-parameter toy model. The "is there a checker" argument is the hosts' own analysis, not any statute's or paper's.<br/><br/>Jack and Molly are AI-generated hosts; research and script by Oggy.<br/><br/>Sources: https://arxiv.org/abs/2504.13837 · https://arxiv.org/abs/2506.10947 · https://arxiv.org/abs/2505.24864 · https://arxiv.org/abs/2504.20571 · https://arxiv.org/abs/2512.07783<br/><br/>Also cited: NeurIPS 2025 awards https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/ · Wu et al., Reasoning or Memorization? (AAAI 2026) https://arxiv.org/abs/2507.10532 · The Invisible Leash https://arxiv.org/abs/2507.14843 · Qwen3 Technical Report https://arxiv.org/abs/2505.09388 · Xiaomi MiMo https://arxiv.org/abs/2505.07608 · DeepSeek-R1 https://arxiv.org/abs/2501.12948 · Karpathy, 2025 LLM Year in Review https://karpathy.bearblog.dev/year-in-review-2025/ · OpenAI, Introducing o3 and o4-mini https://openai.com/index/introducing-o3-and-o4-mini/ · xAI, Grok 4 https://x.ai/news/grok-4 · OpenAI, Estimating Worst-Case Frontier Risks of Open-Weight LLMs https://arxiv.org/abs/2508.03153 · California SB 53 https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB53 · European Commission, Guidelines on obligations for general-purpose AI providers https://ec.europa.eu/newsroom/dae/redirection/document/118340 · GPAI Code of Practice, Safety and Security chapter https://ec.europa.eu/newsroom/dae/redirection/document/118119</p>
+<p><b>Chapters:</b><br/>
+0:00 Cold open: a thousand tries, and only the base model solves some problems<br/>
+0:46 Why this paper: RL's big year, and a belief borrowed from game-playing AI<br/>
+1:59 The mechanism: pass at k, a pruned search tree, and distillation as the graft<br/>
+5:45 What it found: a near-subset, a small slip in reach, and a softened headline<br/>
+8:32 Connecting the dots: random rewards, one example, NVIDIA's long RL, and the open frontier question<br/>
+12:31 The policy thread: compute thresholds that count RL, who can check the answer, and testing with many tries<br/>
+15:18 Close: the takeaway, and two things to watch</p>]]></content:encoded>
+      <pubDate>Mon, 26 Oct 2026 09:07:06 GMT</pubDate>
+      <enclosure url="https://dwt0.github.io/podcast-feed/episodes/weights-measures-reliability-or-reach-what-rl-really-teaches.mp3" length="7612269" type="audio/mpeg"/>
+      <itunes:duration>0:15:51</itunes:duration>
+      <guid isPermaLink="true">https://dwt0.github.io/podcast-feed/episodes/weights-measures-reliability-or-reach-what-rl-really-teaches.mp3</guid>
+    </item>
+    <item>
       <title>Weights &amp; Measures — DeepSeek V3, a Model Built Around Its Chips</title>
       <description>DeepSeek-V3 Technical Report — DeepSeek-AI (2024)</description>
       <content:encoded><![CDATA[<p>DeepSeek-V3 Technical Report — DeepSeek-AI (2024)</p>
