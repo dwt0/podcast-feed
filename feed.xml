@@ -458,6 +458,24 @@
       <guid isPermaLink="true">https://dwt0.github.io/podcast-feed/episodes/07-kolt-governingaiagents.mp3</guid>
     </item>
     <item>
+      <title>Weights &amp; Measures — Gated DeltaNet and the One-in-Four Rule</title>
+      <description>Gated Delta Networks: Improving Mamba2 with Delta Rule — Yang, Kautz, Hatamizadeh (MIT and NVIDIA, 2024; ICLR 2025); with Kimi Linear — Moonshot AI (2025), MiniMax's "Why Did M2 End Up as a Full Attention Model?" (2025) and Olmo Hybrid — Ai2 (2026)</description>
+      <content:encoded><![CDATA[<p>Gated Delta Networks: Improving Mamba2 with Delta Rule — Yang, Kautz, Hatamizadeh (MIT and NVIDIA, 2024; ICLR 2025); with Kimi Linear — Moonshot AI (2025), MiniMax's "Why Did M2 End Up as a Full Attention Model?" (2025) and Olmo Hybrid — Ai2 (2026)</p>
+<p>Alibaba's largest open model, Qwen3.8-2.4T-A95B, keeps ordinary attention in only twenty-three of its ninety-two layers; the other sixty-nine keep a memory that never grows. Jack and Molly explain the mechanism behind those layers, from Yang, Kautz and Hatamizadeh's Gated DeltaNet paper (MIT and NVIDIA): a gate that fades the whole memory, and a delta rule that reads what the memory returns for a key and writes only the difference. They cover what its small-scale experiments did and didn't show, how Qwen, Moonshot's Kimi Linear and Ai2's Olmo Hybrid came to ship three-to-one hybrids (a trade-off both published ratio tests found on models far smaller than the labs ship), and MiniMax's warning, after going back to full attention, that benchmarks hadn't shown what its own hybrid was losing. On policy: as Molly reads them, the big compute thresholds count training, not serving a deployed model, which is where these layers mostly save. Jack and Molly are AI-generated hosts; research and script by Oggy. Sources: https://arxiv.org/abs/2412.06464; https://arxiv.org/abs/2406.06484; https://arxiv.org/abs/2510.26692; https://arxiv.org/abs/2505.06708; https://www.minimax.io/news/why-did-m2-end-up-as-a-full-attention-model; https://huggingface.co/MiniMaxAI/MiniMax-M3; https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Instruct; https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B; https://huggingface.co/allenai/Olmo-Hybrid-7B; https://arxiv.org/abs/2604.03444; https://www.interconnects.ai/p/olmo-hybrid-and-future-llm-architectures; https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R1689; https://ec.europa.eu/newsroom/dae/redirection/document/118340; https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB53; https://nyassembly.gov/leg/?term=2025&bn=S08828</p>
+<p><b>Chapters:</b><br/>
+0:00 Cold open: one layer in four<br/>
+0:44 Why this paper: the cost of attention<br/>
+2:09 The mechanism: an eraser and a correction pen<br/>
+5:33 What it found, at small scale<br/>
+7:43 Three layers in four, and MiniMax's warning<br/>
+12:11 Policy: training thresholds, inference savings<br/>
+15:06 Close: rationed, not replaced</p>]]></content:encoded>
+      <pubDate>Thu, 19 Nov 2026 10:07:03 GMT</pubDate>
+      <enclosure url="https://dwt0.github.io/podcast-feed/episodes/weights-measures-gated-deltanet-and-the-one-in-four-rule.mp3" length="7490349" type="audio/mpeg"/>
+      <itunes:duration>0:15:36</itunes:duration>
+      <guid isPermaLink="true">https://dwt0.github.io/podcast-feed/episodes/weights-measures-gated-deltanet-and-the-one-in-four-rule.mp3</guid>
+    </item>
+    <item>
       <title>Weights &amp; Measures — Attribution Graphs, a Microscope With Limits</title>
       <description>Lindsey, Ameisen, Batson et al. (Anthropic) — On the Biology of a Large Language Model + Circuit Tracing (2025)</description>
       <content:encoded><![CDATA[<p>Lindsey, Ameisen, Batson et al. (Anthropic) — On the Biology of a Large Language Model + Circuit Tracing (2025)</p>
